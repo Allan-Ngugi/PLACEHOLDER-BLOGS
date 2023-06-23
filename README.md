@@ -2,7 +2,7 @@
 
 This is a content management system that allow its users to create their own blogs without having to touch any code.
 
-## SETUP PROCESS
+## WANT TO CONTRIBUTE?
 
 ### 1. Fork the repository
 
