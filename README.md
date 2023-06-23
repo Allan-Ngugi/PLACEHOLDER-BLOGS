@@ -1,24 +1,40 @@
-# README
+# PLACEHOLDER BLOGS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a content management system that allow its users to create their own blogs without having to touch any code.
 
-Things you may want to cover:
+## SETUP PROCESS
 
-* Ruby version
+### 1. Fork the repository
 
-* System dependencies
+### 2. Create your feature branch
 
-* Configuration
+This should be named after what you're working on, kindly make sure that any feature you want to add or fix has its own branch.
 
-* Database creation
+#### For example:
 
-* Database initialization
+If you are working on user authentication then name your branch:
 
-* How to run the test suite
+```
+git checkout -b user-authentication
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### 3. Commit your changes
 
-* Deployment instructions
+After you are done with your feature then go ahead and commit your changes:
 
-* ...
+```
+git commit -m "added something to user authentication"
+```
+
+### 4. Push to the branch
+
+Obviously you have to push your changes. Now using our earlier example in step 2, pushing your changes will look something like this:
+
+```
+git push origin user-authentication
+```
+
+### 5. Create new pull request
+
+Finally you can go ahead and let us see what you have worked on by creating a new pull request.
+That's it!!
